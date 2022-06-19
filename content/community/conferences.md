@@ -13,21 +13,6 @@ Do you know of a local React.js conference? Add it here! (Please keep the list c
 ## Upcoming Conferences {#upcoming-conferences}
 
 
-### render(ATL) 2022 🍑 {#render-atlanta-2022} 
-June 1 - 4, 2022. Atlanta, GA, USA
-
-[Website](https://renderatl.com) - [Discord](https://www.renderatl.com/discord) - [Twitter](https://twitter.com/renderATL) - [Instagram](https://www.instagram.com/renderatl/) - [Facebook](https://www.facebook.com/renderatl/) - [LinkedIn](https://www.linkedin.com/company/renderatl) - [Podcast](https://www.renderatl.com/culture-and-code#/)
-
-### React Day Bangalore 2022 {#reactday-bangalore-2022}
-June 8 - 9, 2022.  Remote
-
-[Website](https://reactday.in/) - [Twitter](https://twitter.com/ReactDayIn) - [Linkedin](https://www.linkedin.com/company/react-day/) - [YouTube](https://www.youtube.com/reactify_in)
-
-### App.js Conf 2022 {#appjs-conf-2022}
-June 8 - 10, 2022. In-person in Kraków, Poland + remote
-
-[Website](https://appjs.co) - [Twitter](https://twitter.com/appjsconf)
-
 ### React Summit 2022 {#react-summit-2022}
 June 17 & 21, 2022. In-person in Amsterdam, Netherlands + remote first interactivity (hybrid event)
 
@@ -68,6 +53,22 @@ September 29 - October 1, 2022. In-person in Alicante, Spain + remote (hybrid ev
 [Website](http://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante) - [Videos](https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w)
 
 ## Past Conferences {#past-conferences}
+
+
+### App.js Conf 2022 {#appjs-conf-2022}
+June 8 - 10, 2022. In-person in Kraków, Poland + remote
+
+[Website](https://appjs.co) - [Twitter](https://twitter.com/appjsconf)
+
+### React Day Bangalore 2022 {#reactday-bangalore-2022}
+June 8 - 9, 2022.  Remote
+
+[Website](https://reactday.in/) - [Twitter](https://twitter.com/ReactDayIn) - [Linkedin](https://www.linkedin.com/company/react-day/) - [YouTube](https://www.youtube.com/reactify_in)
+
+### render(ATL) 2022 🍑 {#render-atlanta-2022} 
+June 1 - 4, 2022. Atlanta, GA, USA
+
+[Website](https://renderatl.com) - [Discord](https://www.renderatl.com/discord) - [Twitter](https://twitter.com/renderATL) - [Instagram](https://www.instagram.com/renderatl/) - [Facebook](https://www.facebook.com/renderatl/) - [LinkedIn](https://www.linkedin.com/company/renderatl) - [Podcast](https://www.renderatl.com/culture-and-code#/)
 
 ### Reactathon 2022 {#reactathon-2022} 
 May 3 - 5, 2022. Berkeley, CA
